@@ -1,2 +1,10 @@
-# ipsa_flacso_short_course_introduction_to_python_for_data_management
-This repository contains materials for the Course INTRODUCTION TO PYTHON FOR DATA MANAGEMENT 
+# IPSA FLACSO Short Course: Itroduction to Python for Data Management
+
+## Contents
+
+1. [Lecture 1: Introduction to Python](lectures/lecture-1.ipynb)
+    * Intallation of Python and VSCode
+    * Running a simple Python script
+    * Using Juypter Notebook
+    * Basic Python syntax
+    * Basic Python data structures
