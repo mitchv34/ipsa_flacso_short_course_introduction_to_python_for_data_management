@@ -2,7 +2,7 @@
 
 ## Contents
 
-1. [Lecture 1: Introduction to Python](lectures/lecture-1.ipynb)
+1. [Lecture 1: Introduction to Python](/lectures/lecture-1.ipynb)
     * Intallation of Python and VSCode
     * Running a simple Python script
     * Using Juypter Notebook
